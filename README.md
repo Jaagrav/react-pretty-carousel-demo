@@ -1,3 +1,9 @@
+# React Pretty Carousel
+
+![React Pretty Carousel](https://user-images.githubusercontent.com/52719271/107816979-7f6adb80-6d9b-11eb-8535-2c8ccf4bb865.gif)
+
+The docs for this package is available right [here](https://github.com/Jaagrav/react-pretty-carousel).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
